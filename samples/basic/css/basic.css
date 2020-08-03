@@ -72,7 +72,7 @@ body{
 
 .audioPlayer {
 	position: absolute;
-	bottom: 15px;
+	bottom: 10px;
 	left: 200px; 
 	display: block;
 	width: 100px;
