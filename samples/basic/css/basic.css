@@ -72,15 +72,12 @@ body{
 
 .audioPlayer {
 	position: absolute;
-
 	bottom: 0px;
-	left: 45%; 
-	display: inline-block;
-	padding: 5px;
-
-	bottom: 20px;
-	left: 200px; 
+	padding: 15px;
 	display: block;
+	text-align: center;
+	width: 30%;
+	margin: 5px;
 
 
 	 
@@ -139,13 +136,18 @@ position: relative;
 
 img.click {
 	position: absolute;
-	bottom: 5px;
-	left: 40%;
-	display: inline-block;
+	
 	padding: 5px;
+	display: block;
+	padding: 20px;
+	bottom: 45px;
+	width: 102px;
+	margin-right: 5px;
+	
 }
 
 #directions {
     color: white;
 	text-align: center;
+	
 }
